@@ -1,0 +1,18 @@
+.App.light {
+  background-color: white; /* Oq fon rang */
+  color: black; /* Qora matn rangi */
+}
+
+.App.dark {
+  background-color: black; /* Qora fon rang */
+  color: white; /* Oq matn rangi */
+}
+
+/* Header uchun temaga bog'liq ranglarni belgilang */
+.Header.light {
+  background-color: #f8f9fa; /* Oq rang */
+}
+
+.Header.dark {
+  background-color: #343a40; /* Qora rang */
+}

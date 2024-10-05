@@ -1,0 +1,10 @@
+.divider {
+    width: 155px; /* Chiziqning kengligini 30% ga belgilash */
+    color: #007bff;
+}
+
+.section.dark{
+    background-color: dark;
+    color: white;
+}
+  

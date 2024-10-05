@@ -1,0 +1,19 @@
+.Header {
+    transition: background-color 0.3s ease; /* O'zgarish effektlari */
+}
+
+.Header.bg-light {
+    background-color: #f8f9fa; /* Oq rang */
+}
+
+.Header.bg-dark {
+    background-color: #343a40; /* Qora rang */
+}
+
+.navbar-brand {
+    transition: color 0.3s ease;
+}
+
+.navbar-nav .nav-link {
+    transition: color 0.3s ease;
+}
